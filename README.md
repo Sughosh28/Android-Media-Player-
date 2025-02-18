@@ -53,11 +53,6 @@ The **Media Player** is a versatile Android application that allows users to bro
    - Updates the UI dynamically when a song completes
    - Handles media transitions (next/previous track)
 
-## Screenshots
-![Splash Screen](images/splash_screen.png)
-![Main Activity](images/main_activity.png)
-![Mini Player](images/mini_player.png)
-![Player Activity](images/player_activity.png)
 
 ## Conclusion
 This project successfully implements an Android Media Player application with essential playback controls and a visually appealing UI. The app enhances the music listening experience by providing seamless song navigation, shuffle and loop functionality, and ringtone customization. 
